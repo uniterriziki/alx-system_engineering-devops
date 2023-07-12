@@ -1,0 +1,6 @@
+#!/bin/bash
+<<<<<<< HEAD
+su Betty
+=======
+su betty
+>>>>>>> a0864444558a4149cd6725af2f51d423cca30de3
